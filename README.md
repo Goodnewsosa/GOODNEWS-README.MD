@@ -1,4 +1,4 @@
-<h1 align="center">Goodnews Osabuo</h1>
+<h1 align="center">Goodnews Osabuohien</h1>
 
 <p align="center">
   <strong>MSc Data Science Student | Professional Web Developer</strong>
